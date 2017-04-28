@@ -1,9 +1,9 @@
-#Long Reach
+# Long Reach
 
 This is a very simple mod. It just sets the reach distance to a very large
 value.
 
-##Rationale
+## Rationale
 
 Do you ever find it annoying that you're not quite close enough to something to
 place it? Are you playing marathon mode and constantly running around your base
@@ -14,7 +14,13 @@ If this mod is active, you can reach basically anything you can see in the
 viewport. In fact, you can reach much further than that, but since you can't
 scroll that far, you won't.
 
-##Caveats
+## Settings
+
+You can change the reach distances in the mod settings page. By default, you
+can reach just about the maximally zoomed out viewport. You can change it to allow
+reaching much further (e.g. edit remote bases in zoomed-in map view).
+
+## Caveats
 
 Why `data-final-fixes.lua`? I don't know. data.lua didn't work. Maybe some other
 mod was overriding the player prototype. This mod tries to take precedence
