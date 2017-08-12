@@ -3,6 +3,13 @@
 This is a very simple mod. It just sets the reach distance to a very large
 value.
 
+## Status
+
+I am not maintaining this mod any more. If someone wants to fork and maintain
+the mod, I'm happy to update this readme page to point to such a fork.
+Please make a few commits first so I can know that you're serious, though.
+;)
+
 ## Rationale
 
 Do you ever find it annoying that you're not quite close enough to something to
