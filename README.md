@@ -5,7 +5,8 @@ value.
 
 ## Status
 
-This is the official fork from the original creator of the long-reach mod. We are currently trying to transfer the ownership of the mod on the mod portal in order to make it easy for everyone to get a version that works in factorio 0.16.
+This is the official fork from the original creator of the long-reach mod. It's now maintained on the mod portal again as well: https://mods.factorio.com/mod/long-reach
+
 
 ## Rationale
 
