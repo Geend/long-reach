@@ -5,10 +5,7 @@ value.
 
 ## Status
 
-I am not maintaining this mod any more. If someone wants to fork and maintain
-the mod, I'm happy to update this readme page to point to such a fork.
-Please make a few commits first so I can know that you're serious, though.
-;)
+This is the official fork from the original creator of the long-reach mod. We are currently trying to transfer the ownership of the mod on the mod portal in order to make it easy for everyone to get a version that works in factorio 0.16.
 
 ## Rationale
 
