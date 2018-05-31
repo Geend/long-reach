@@ -6,7 +6,7 @@ script.on_configuration_changed(function (data)
 	apply_long_reach_settings()		
 end)
 
-script.on_event(defines.events.on_runtime_mod_setting_changed,function ()
+script.on_event({defines.events.on_runtime_mod_setting_changed, defines.events.on_player_joined_game, defines.events.on_player_changed_force},function ()
 	apply_long_reach_settings()
 end)
 
