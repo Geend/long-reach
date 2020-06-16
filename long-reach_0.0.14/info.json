@@ -1,11 +1,11 @@
 {
   "name": "long-reach",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "title": "Long Reach",
   "author": "James Aguilar, Torben Voltmer",
   "contact": "factorio@t-voltmer.net",
   "homepage": "https://github.com/Geend",
   "description": "You can reach anything you can see. You can build anywhere you can see.",
-  "factorio_version":"0.17",
+  "factorio_version":"0.18",
   "dependencies": ["base >= 0.13.0"]
 }
